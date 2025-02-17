@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "random": "c",
+        "limits": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
